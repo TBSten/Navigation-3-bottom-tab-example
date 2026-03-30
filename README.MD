@@ -1,6 +1,6 @@
 # Navigation 3 bottom tab example
 
-<video src="./sample.mp4" >
+<video src="./sample.mp4" />
 
 Web sample: https://tbsten.github.io/Navigation-3-bottom-tab-example/
 
@@ -15,7 +15,7 @@ Navigation 3 での Bottom Navigation との統合のサンプル。
 Compose Multiplatform Wizard を使って Compose Multiplatform のプロジェクトを作成してください。
 Navigation 3 にチェックを入れるようにしましょう。
 
-<img src="./cmp-wizard-with-nav3.png">
+<img src="./cmp-wizard-with-nav3.png" />
 
 ### 1-B. 既存プロジェクトへの追加
 
