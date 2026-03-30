@@ -42,6 +42,7 @@ kotlin {
             implementation(libs.androidx.lifecycle.viewmodel)
             implementation(libs.androidx.lifecycle.runtime)
             implementation(libs.compose.nav3)
+            implementation(libs.androidx.lifecycle.viewmodel.navigation3)
             implementation(libs.kotlinx.serialization.json)
         }
 
