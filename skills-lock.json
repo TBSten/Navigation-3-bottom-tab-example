@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "skills": {
+    "navigation3-main-tab": {
+      "source": "tbsten/skills",
+      "sourceType": "github",
+      "computedHash": "a90e0515911a0b84e570a7c0bd6090b683adcb0ed3079905fee505613d1b7cf1"
+    }
+  }
+}
